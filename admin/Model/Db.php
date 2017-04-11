@@ -4,17 +4,17 @@ class db {
 
 
 
-    private $host = "mysql.onehost.vn";
+    private $host = "localhost";
 
     //private $user = "root";
 
     //private $pass = "root";
 
-    private $user = "thietken_nhom";
+    private $user = "nhomvinhhoc00b";
 
-    private $pass = "nhom@2013@";
+    private $pass = "b27d6427e5454b63";
 
-    private $db = "thietken_nhom_vinhhop";
+    private $db = "nhomvinhhop_c00b";
 
 
 
